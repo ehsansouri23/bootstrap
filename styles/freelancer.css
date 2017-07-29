@@ -1,0 +1,36 @@
+.container-fluid{
+    padding: 12px;
+}
+
+.navbar-header, .navbar-right{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+ul.nav li:hover{
+    background-color: #48C9B0;
+}
+
+#start{
+    background-color: #48C9B0;
+    color: white;
+    margin-top: 74px;
+}
+
+#portfolio{
+    margin-top: 20px;
+}
+
+ h1.header{
+    font-size: 40pt;
+    text-decoration: bold;
+}
+
+.col-md-4 img{
+    width: 100%;
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
